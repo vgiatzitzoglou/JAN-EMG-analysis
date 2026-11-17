@@ -1,0 +1,18 @@
+# Local inputs and outputs
+/data/
+/results/
+*.mat
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.otb
+*.otb4
+*.sig
+
+# MATLAB and system files
+*.asv
+*.m~
+*.fig
+slprj/
+.DS_Store
