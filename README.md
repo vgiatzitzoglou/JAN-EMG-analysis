@@ -1,6 +1,6 @@
 # JAN EMG analysis
 
-MATLAB scripts for quality control, motor-unit matching across trials, track construction, SIL sensitivity and demographic analyses. This is a collaborator review version of the JAN reanalysis. It starts from prepared trial files; it does not perform EMG decomposition or manual spike editing.
+MATLAB scripts for quality control, motor-unit matching across trials, track construction, SIL sensitivity and demographic analyses. It starts from prepared trial files; it does not perform EMG decomposition or manual spike editing.
 
 ## Requirements and inputs
 
